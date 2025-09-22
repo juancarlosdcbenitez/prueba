@@ -30,8 +30,8 @@ GitHub tiene soporte integrado para **Mermaid**, una herramienta que permite cre
 
 ```mermaid
 graph TD;
-    A[Inicio del Proyecto] --> B{¿Hay un README?};
+    A[Inicio del proyecto] --> B{¿Hay un README?};
     B -- Sí --> C[Leer documentación];
     B -- No --> D[Crear README.md];
     D --> C;
-    C --> E[Empezar a codificar];
+    C --> E[Empezar a programar];
