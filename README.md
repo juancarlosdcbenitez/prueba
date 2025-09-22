@@ -4,7 +4,7 @@ Esto es un texto introductorio. Markdown nos permite dar formato al texto de una
 
 ## Cabeceras
 
-Usamos `#` para las cabeceras. Cuantos más `#` se use, menor será el nivel del encabezado.
+Usamos `#` para las cabeceras. Cuantos más `#` se use, menor será el tamaño del encabezado.
 
 ### Texto con formato
 
