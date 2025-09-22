@@ -30,10 +30,10 @@ Las tablas nos ayudan a organizar y presentar datos de forma estructurada y clar
 
 | Asignatura | Profesor |
 |-----------|-------------|
-| (Lenguajes de marcas y sistemas de gestión de información) | José Ignacio Prieto Tinoco |
-| [Programación]  | Antonia Fabián Romero |
-| [Bases de datos]  | Eduardo del Cerro Aldea |
-| [Itinerario personal para la empleabilidad I] | África Martín Martín |
+| Lenguajes de marcas y sistemas de gestión de información | José Ignacio Prieto Tinoco |
+| Programación  | Antonia Fabián Romero |
+| Bases de datos  | Eduardo del Cerro Aldea |
+| Itinerario personal para la empleabilidad I | África Martín Martín |
 
 
 ### Gráfico (se usa la sintaxis Mermaid)
