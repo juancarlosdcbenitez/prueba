@@ -36,7 +36,7 @@ Las tablas nos ayudan a organizar y presentar datos de forma estructurada y clar
 | Itinerario personal para la empleabilidad I | África Martín Martín |
 
 
-### Gráfico
+### Gráficos
 
 * **Logo de HTML**
 
