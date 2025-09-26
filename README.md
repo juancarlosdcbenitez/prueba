@@ -36,14 +36,4 @@ Las tablas nos ayudan a organizar y presentar datos de forma estructurada y clar
 | Itinerario personal para la empleabilidad I | África Martín Martín |
 
 
-### Gráfico (se usa la sintaxis Mermaid)
-
-GitHub tiene soporte integrado para **Mermaid**, una herramienta que permite crear diagramas y gráficos a partir de un texto, lo cual es idóneo para representar flujos de trabajo o diagramas simples.
-
-```mermaid
-graph TD;
-    A[Inicio del proyecto] --> B{¿Hay un README?};
-    B -- Sí --> C[Leer documentación];
-    B -- No --> D[Crear README.md];
-    D --> C;
-    C --> E[Empezar a programar];
+### Gráfico
