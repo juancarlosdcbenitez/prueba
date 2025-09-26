@@ -40,4 +40,4 @@ Las tablas nos ayudan a organizar y presentar datos de forma estructurada y clar
 
 # Logo de HTML
 
-![HTMLLogo](prueba/html5-logo.png)
+![HTMLLogo](html5-logo.png)
