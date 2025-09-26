@@ -37,3 +37,7 @@ Las tablas nos ayudan a organizar y presentar datos de forma estructurada y clar
 
 
 ### Gráfico
+
+# Logo de HTML
+
+![html5-logo](image_url)
